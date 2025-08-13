@@ -1,0 +1,19 @@
+{
+  "title": "HazeCleaner - Pulizia FiveM",
+  "start_clean": "Avvia Pulizia",
+  "cleaning": "Pulizia in corso...",
+  "cleaned": "Pulizia completata!",
+  "delete_keybind": "Ripristina keybind (elimina fivem.cfg)",
+  "log_start": "Inizio pulizia...",
+  "log_deleting": "Eliminazione: {item}",
+  "log_done": "Pulizia terminata.",
+  "footer_text": "Sviluppato da ! KΛTΛПIΛ per Haze RP",
+  "website": "Sito Haze RP",
+  "discord": "Discord Haze RP",
+  "help": "Informazioni",
+  "about_title": "Informazioni su HazeCleaner",
+  "about_text": "Autore: katania91\nDiscord: katania91\nVersione: v1.0",
+  "language": "Lingua",
+  "italian": "Italiano",
+  "english": "Inglese"
+}
